@@ -6,8 +6,8 @@ class Student
     session_start();
     $servername = "localhost";
     $dbname = "crud";
-    $username = "root";
-    $password = "";
+    $username = "crud";
+    $password = "crud";
   
 
     // Create connection
